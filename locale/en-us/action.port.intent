@@ -1,0 +1,2 @@
+switch {state} port {nums}
+switch port {nums} {state}
