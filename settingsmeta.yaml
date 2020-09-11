@@ -1,4 +1,3 @@
-
 skillMetadata:
   sections:
     - name: Options << Name of section
@@ -20,3 +19,4 @@ skillMetadata:
           type: password
           label: Password
           value: ""
+          
